@@ -3,7 +3,7 @@
 
 int main(){
 	int a = 0;
-	string b = "assj;ajf!@##%";
+	string b = "assj;ajf!@##";
 	for(int i = 0;i < 10;++ i){
 		a ++;//a = a+1
 		a = a + 1;/*    a++     */
@@ -12,5 +12,4 @@ int main(){
 		ah -= 1;
 		ah --;
 	}
-	~~~~```
 }
