@@ -1,0 +1,11 @@
+int main{
+	int a = 0;
+	for(int i = 0;i < 10;++ i){
+		a ++;//a = a+1
+		a = a + 1;/*    a++     */
+		a += 1;
+		int ah = a;
+		ah -= 1;
+		ah --;
+	}
+}
